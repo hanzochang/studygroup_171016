@@ -4,7 +4,9 @@
 
 - is-a
 - has-a
-- bheve-like-a
+- behaves-like-a
+
+[https://gyazo.com/5931cde8557d6b53b07d93078b83a23e](https://gyazo.com/5931cde8557d6b53b07d93078b83a23e)
 
 ## 「is-a,has-a,behaves-like-a」選択の基準
 
