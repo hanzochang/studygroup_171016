@@ -6,7 +6,7 @@
 - has-a
 - behaves-like-a
 
-[https://gyazo.com/5931cde8557d6b53b07d93078b83a23e](https://gyazo.com/5931cde8557d6b53b07d93078b83a23e)
+<a href="https://gyazo.com/5931cde8557d6b53b07d93078b83a23e"><img src="https://i.gyazo.com/5931cde8557d6b53b07d93078b83a23e.png" alt="https://gyazo.com/5931cde8557d6b53b07d93078b83a23e" width="1037"/></a>
 
 ## 「is-a,has-a,behaves-like-a」選択の基準
 
